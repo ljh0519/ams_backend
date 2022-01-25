@@ -1,0 +1,16 @@
+-name asset_manager
+
+-setcookie easemob_cookie
+
++K true
++A30
++P 2500000 
++spp true 
++sbwt none 
++sbt db 
++swt low 
++sub true 
++zdbbl 2096000 
++t 1048576 
++e 500000 
++Q 5000000

@@ -1,0 +1,9 @@
+{
+    "search.exclude" : {
+        "**/_build/**/lib/asset_manager": true,
+        "**/_build/**/rel": true,
+    },
+    "files.associations": {
+        "vector": "c"
+    }
+}

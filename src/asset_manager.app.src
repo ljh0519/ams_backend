@@ -1,0 +1,19 @@
+%% Vsn auto-managed by relflow utility.
+%% DO NOT CHANGE VSN FIELD MANUALLY!
+{application,asset_manager,
+    [{vsn,"0.0.1"},
+     {description,"Asset Manager Web Server"},
+     {registered,[]},
+     {mod,{asset_manager_app,[]}},
+     {applications,[kernel,stdlib,sasl,ssl,inets]},
+     {included_applications,
+         [os_mon,idna,jiffy,jsx,stringprep,unicode_util_compat,cowboy,base64url,fast_xml,
+          hackney]},
+     {env,
+         [
+          {enabled_backends,[]},
+          {enable_erl_om,false}
+        ]
+    },
+     {modules,[]},
+     {links,[]}]}.
